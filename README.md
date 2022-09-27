@@ -5,7 +5,7 @@
 
 
 ## Introduction
-크라우드 펀딩 [텀블벅](https://tumblbug.com/discover) 홈페이지 클론 코딩 프로젝트입니다.
+크라우드 펀딩 서비스에서 사용되는 API를 구현한 프로젝트입니다.
 
 - 기간: 22.07.04 ~ 22.07.15
 - 구성: Front-End 4명 / Back-End 2명
